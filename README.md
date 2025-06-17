@@ -8,7 +8,7 @@ Through the application of RFM metrics, capturing how recently, how often, and h
 ## Illustration
 In terms of project structure, this will include several documents:
 1. [Analytical report](https://github.com/haileyla/Customer360_Marketing-Sales-Project/blob/main/Customer360%20report.pdf)
-2. SQL query code (executed in Dbeaver and hosted locally via Wampserver)
+2. [SQL query code](https://github.com/haileyla/Customer360_Marketing-Sales-Project/blob/main/Customer360.sql) (executed in Dbeaver and hosted locally via Wampserver)
 3. [Dashboard visualized in Excel](https://github.com/haileyla/Customer360_Marketing-Sales-Project/blob/main/Visualization%20dashboard.xlsx)
 
 ## Table of Contents
